@@ -1,0 +1,16 @@
+.box {
+  
+  margin-top: 20px;
+  background-color: brown;
+}
+
+.width375 {
+  width: 375px;
+  height: 375px;
+}
+
+.width750 {
+  width: 750px;
+  height: 750px;
+}
+
